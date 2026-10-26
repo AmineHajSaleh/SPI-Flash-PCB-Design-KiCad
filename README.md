@@ -9,11 +9,11 @@ The objective was to design a compact SPI Flash memory breakout board that can i
 
 ## 1. PCB 3D Visualization
 
-![SPI Flash PCB 3D View](images/pcb-3d.png)
+![SPI Flash PCB 3D View](Images/pcb-3d.png)
 
 ## 2. PCB Layout & Routing
 
-![SPI Flash PCB Layout](images/pcb-layout.png)
+![SPI Flash PCB Layout](Images/pcb-layout.png)
 
 The board uses a **2-layer PCB architecture**:
 
